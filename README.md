@@ -3,7 +3,7 @@ Hive Chat is a next-generation secure communication platform designed for privac
 
 ### Licensing & Usage  
 
-The **HiveChat Messenger** source code for Android is released under an open-source license. However, please note that **HiveChat remains a paid application**.  
+The **HiveChat Messenger** source code for Android will be released under an open-source license. However, please note that **HiveChat remains a paid application**.  
 
 If you wish to use the app with our official server infrastructure, a valid license is required. Licenses can be obtained through:  
 - [Google Play](#)  
